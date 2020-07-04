@@ -1,16 +1,12 @@
 
-# Games
+### Games
 ```
 Some games created by python code.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
 
-# Statement
-```
-This repository is created just for learning python(Commercial prohibition).
-```
 
-# Contents
+### Contents
 
 |   ID      |   Name of The Game |   Code                                                                                          |
 |   :----:  |   :----:           |   :----:                                                                                        |
@@ -30,6 +26,6 @@ $ git clone https://github.com/fernandofatech/games-in-python
 $ cd games-in-python
 ```
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fernandofatech/games-in-python/blob/master/LICENSE) file for details
