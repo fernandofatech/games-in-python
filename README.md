@@ -42,7 +42,7 @@ $ git clone https://github.com/fernandofatech/games-in-python
 
 $ cd games-in-python
 ```
-###Docker
+### Docker
 
 Step 1: Authenticate
 ```
