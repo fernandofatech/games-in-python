@@ -5,8 +5,6 @@ Some games created by python code.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
 
-![image](https://user-images.githubusercontent.com/39699305/86520226-ef92a580-be39-11ea-9ed5-87a41d11dd3e.png)
-
 ### Why? 
 
  This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
@@ -20,6 +18,9 @@ www.linkedin.com/in/fernando-francisco-azevedo
 Also, you can use this Project as you wish, could it be to study, make improvements or even earn money with it.
 
 It's free!
+
+
+![image](https://user-images.githubusercontent.com/39699305/86520226-ef92a580-be39-11ea-9ed5-87a41d11dd3e.png)
 
 
 ### Contents
