@@ -1,9 +1,22 @@
 
-### Games
+# Games
 ```
 Some games created by python code.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
+### Why? 
+
+ This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
+ 
+Email-me: Fernando.tech@icloud.com
+
+Connect with me at [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo/).
+
+www.linkedin.com/in/fernando-francisco-azevedo
+
+Also, you can use this Project as you wish, could it be to study, make improvements or even earn money with it.
+
+It's free!
 
 
 ### Contents
@@ -29,3 +42,5 @@ $ cd games-in-python
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fernandofatech/games-in-python/blob/master/LICENSE) file for details
+
+### Feel free to use it, open a Pull Request, give suggestions.
